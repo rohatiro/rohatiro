@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola / Hi there 👋
+
+Soy un sujeto mexicano que esta reaprendiendo sus gustos en el desarrollo web, enfocado mas en la parte del front-end, pero que con el tiempo aprendere backend tambien.
+
+I'm  a mexican dude who is relearning his likes on the web development, focused more on the part of front-end but with time I'll learn back-end too.
 
 <!--
 **rohatiro/rohatiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
